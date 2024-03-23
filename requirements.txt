@@ -1,0 +1,14 @@
+audio_recorder_streamlit==0.0.8
+fpdf==1.7.2
+gTTS==2.5.1
+openai==0.28.0
+pandas==1.5.3
+PyPDF2==3.0.1
+Requests==2.31.0
+SpeechRecognition==3.10.1
+streamlit==1.32.2
+streamlit_lottie==0.0.5
+streamlit_option_menu==0.3.12
+
+
+# sudo apt-get update && sudo apt-get install -y linux-tools-common linux-tools-generic dmidecode sysstat net-tools iproute2 pciutils intel-gpu-tools coreutils procps upower util-linux && sudo ubuntu-drivers autoinstall
